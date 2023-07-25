@@ -8,12 +8,12 @@ You can also check [the PR](https://github.com/andrii-bodnar/translate-readme-de
 
 Also, visit the [readme-translate-test](https://crowdin.com/project/readme-translate-test) project in Crowdin to see how the translations are managed.
 
-## Languages
+## Keel
 
 <!-- TRANSLATE-README-LANGUAGES-START -->
-[French](README.fr-FR.md) | [Ukrainian](README.uk-UA.md) | [Estonian](README.et-EE.md)
+[French](README.fr-FR.md) | [Ukrainian](README.uk-UA.md) | **Estonian**
 <!-- TRANSLATE-README-LANGUAGES-END -->
 
-## License
+## Litsentsid
 
 MIT
